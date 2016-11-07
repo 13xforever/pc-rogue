@@ -48,7 +48,7 @@ extern char *s_guess[], *p_guess[], *r_guess[], *ws_guess[];
 extern char f_damage[];
 
 extern bool amulet, after, again, askme, door)stop, expert, fastmode,
-            fastsstate, fight_flush, firstmove, in_shell, jump,
+            faststate, fight_flush, firstmove, in_shell, jump,
             noscore, passgo, playing, running, save_msg, saw_amulet,
             slow_invent, terse, was_trapped, wizard;
 
