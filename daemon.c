@@ -2,7 +2,7 @@
  * Contains functions for dealing with things that happen in the
  * future.
  *
- * @(#)daemon.c5.2 (Berkeley) 6/18/82
+ * @(#)daemon.c 5.2 (Berkeley) 6/18/82
  */
 
 #include "rogue.h"
