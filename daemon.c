@@ -61,7 +61,7 @@ int (*func)();
 daemon(func, arg)
 int (*func)(), arg;
 {
-    register struct delayed)action *dev;
+    register struct delayed_action *dev;
 
     dev = d_slot();
     dev->d_func = func;
