@@ -86,7 +86,7 @@ coord *cp;
 }
 
 /*
- * r_restor(); restor initial damage string for flytraps
+ * r_restor(); restore initial damage string for flytraps
  */
 f_restor()
 {
